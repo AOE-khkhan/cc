@@ -1,4 +1,4 @@
-PointNGCNN: Deep convolutional networks on 3D point clouds with neighborhood graph filters
+# PointNGCNN: Deep convolutional networks on 3D point clouds with neighborhood graph filters
 
 Installation
 Install Tensorflow. You may also need to install h5py. The code has been tested with python 3.5, tensorflow 1.7, CUDA 9.0 and cuDNN 7.0
